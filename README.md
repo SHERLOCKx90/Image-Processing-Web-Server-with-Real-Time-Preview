@@ -281,14 +281,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Designed & Developed by [Subhadeep Chell](https://github.com/subhadeepchell) ❤️
-```
-
-### How to Use:
-
-1. Copy this entire raw code.
-2. Open your `README.md` file in your project.
-3. Paste the raw code into the `README.md` file.
-4. Commit and push the file to GitHub.
-
-This complete `README.md` includes all the sections and manuals to provide users with clear setup instructions, usage details, and contribution guidelines for the project.
+Designed & Developed by [Subhadeep Chell](https://github.com/SHERLOCKx90) ❤️
