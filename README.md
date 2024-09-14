@@ -69,7 +69,7 @@ To start the backend server, navigate to the `backend` folder and run:
 
 ```bash
 cd backend
-npm run dev
+npx ts-node src/app.ts
 ```
 
 This starts the backend server on `http://localhost:3001`.
